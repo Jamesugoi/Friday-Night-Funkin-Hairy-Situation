@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sam Idle"
+		},
+		{
+			"offsets": [
+				20,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sam Left"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sam Down"
+		},
+		{
+			"offsets": [
+				-50,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sam Up"
+		},
+		{
+			"offsets": [
+				90,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sam Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sam_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sam",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		43,
+		248
+	],
+	"camera_position": [
+		-60,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

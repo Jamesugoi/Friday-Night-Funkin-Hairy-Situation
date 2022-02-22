@@ -1,0 +1,40 @@
+{
+	"storyName": "Danger: Sharp Teef",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "room",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Haircut",
+			"sam",
+			[
+				96,
+				43,
+				248
+			]
+		],
+		[
+			"Worry",
+			"sam-worried",
+			[
+				96,
+				43,
+				248
+			]
+		]
+	],
+	"weekCharacters": [
+		"sam",
+		"bf",
+		"gf"
+	],
+	"weekName": "Hairy Situation"
+}

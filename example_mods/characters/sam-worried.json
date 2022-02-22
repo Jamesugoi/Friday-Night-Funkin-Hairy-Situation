@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sam Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sam Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sam Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sam Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sam Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sam_worried_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sam-worried",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		43,
+		248
+	],
+	"camera_position": [
+		-60,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
